@@ -1,4 +1,4 @@
-mcimport numpy as np
+import numpy as np
 import pandas as pd
 from pandas_datareader import data as dt
 import matplotlib.pyplot as plt
